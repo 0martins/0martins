@@ -1,7 +1,8 @@
-  👀  Buenas, Eu sou Rafa Martins:
-  
-
-<h3>  &nbsp;Sobre mim </h3>
+ 
+<h3> 👀  Buenas: Eu sou Rafa Martins:
+ </h3>
+   
+  <h3>&nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando HTML, CSS, JS e GitHub com  <a href="rodolfomori.com.br"> Rodolfo Mori</a>.
